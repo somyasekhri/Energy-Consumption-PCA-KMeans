@@ -17,8 +17,3 @@ An AI/ML project analyzing weekly energy consumption using Exploratory Data Anal
 - `Siemens_Energy_Cluster_Summary.csv` — Cluster summary.
 - `graphs.pdf` — Graphs and explanations.
 - `Energy_Consumption_PCA_KMeans_README.pdf` — Detailed project report.
-## 🌐 Project Website
-
-Visit our live project website:
-
-**[Click here to view the Energy Consumption Project Website](https://nandasutaj.github.io/siemen_energy/)**
